@@ -12,6 +12,10 @@
         <li>{{$GG1}}</li>
         <li>{{$GG2}}</li>
         <li>{{$GG3}}</li>
+        <li>{{$GG4}}</li>
+        <li>{{$GG5}}</li>
+        <li>{{$GG6}}</li>
+        <li>{{$GG7}}</li>
     </ol>
 </body>
 </html>
